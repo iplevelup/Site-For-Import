@@ -1,0 +1,14 @@
+
+
+# TMP Catalog
+/tmp
+
+# General
+Thumbs.db
+.DS_Store
+
+
+# Files Filter
+*.*_old
+*.*_backup
+
